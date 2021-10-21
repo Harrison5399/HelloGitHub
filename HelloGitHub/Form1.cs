@@ -19,7 +19,7 @@ namespace HelloGitHub
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello");
+            MessageBox.Show("Hello There");
         }
     }
 }
